@@ -9,5 +9,4 @@
     3. [Basic User Input Password](https://github.com/samyax09/basic-user-input-password)
     4. [Good Morning Exercise](https://github.com/samyax09/good-morning-exercise)
 
-    Each exercise is kept in its own repository so it can be developed and updated independently.
     
